@@ -1,0 +1,11 @@
+C:\Users\Aluno\Desktop\etec.CadastroCelular.Interface\etec.CadastroCelular.Interface\bin\Debug\etec.CadastroCelular.Interface.exe
+C:\Users\Aluno\Desktop\etec.CadastroCelular.Interface\etec.CadastroCelular.Interface\bin\Debug\etec.CadastroCelular.Interface.pdb
+C:\Users\Aluno\Desktop\etec.CadastroCelular.Interface\etec.CadastroCelular.Interface\obj\x86\Debug\etec.CadastroCelular.Interface.Properties.Resources.resources
+C:\Users\Aluno\Desktop\etec.CadastroCelular.Interface\etec.CadastroCelular.Interface\obj\x86\Debug\etec.CadastroCelular.Interface.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\etec.CadastroCelular.Interface\etec.CadastroCelular.Interface\obj\x86\Debug\etec.CadastroCelular.Interface.exe
+C:\Users\Aluno\Desktop\etec.CadastroCelular.Interface\etec.CadastroCelular.Interface\obj\x86\Debug\etec.CadastroCelular.Interface.pdb
+C:\Users\Aluno\Desktop\etec.CadastroCelular.Interface\etec.CadastroCelular.Interface\obj\x86\Debug\etec.CadastroCelular.Interface.CadastrarCliente.resources
+C:\Users\Aluno\Desktop\etec.CadastroCelular.Interface\etec.CadastroCelular.Interface\obj\x86\Debug\etec.CadastroCelular.Interface.CadastrarCelular.resources
+C:\Users\Aluno\Desktop\etec.CadastroCelular.Interface\etec.CadastroCelular.Interface\obj\x86\Debug\etec.CadastroCelular.Interface.Consultar.resources
+C:\Users\Aluno\Desktop\etec.CadastroCelular.Interface\etec.CadastroCelular.Interface\obj\x86\Debug\etec.CadastroCelular.Interface.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\etec.CadastroCelular.Interface\etec.CadastroCelular.Interface\obj\x86\Debug\etec.CadastroCelular.Interface.FrmPrincipal.resources
